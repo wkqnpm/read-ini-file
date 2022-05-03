@@ -1,11 +1,4 @@
-/*
- * @Descripttion:
- * @version:
- * @Author: wkq
- * @Date: 2022-05-03 11:38:48
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2022-05-03 17:57:52
- */
+
 package main
 
 import (
